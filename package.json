@@ -1,13 +1,13 @@
 {
-  "name": "use-singleton-state",
+  "name": "use-react-singleton-state",
   "version": "1.0.0",
-  "description": "Provide a context like api to listen and update values across multiple usage of a custom hook",
+  "description": "Provide a context like api to listen and update values across multiple usage of the custom hook",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/YOUR_GITHUB_USER_NAME/use-singleton-state",
+  "repository": "https://github.com/AndrewLawendy/use-singleton-state",
   "license": "MIT",
-  "keywords": [],
+  "keywords": ["react", "state", "singleton", "singleton state", "react singleton state", "useSingletonState"],
   "scripts": {
     "build": "run-p build:*",
     "build:main": "tsc -p tsconfig.json",
