@@ -38,11 +38,11 @@ export default useCounter;
 
 ## Demo
 
-In this video, it is evident that both counters are not connected to the same parent, but they are flawlessly synchronized with the same value.
+In this GIF, it is evident that both counters are not connected to the same parent, but they are flawlessly synchronized with the same value.
+
+![singleton-state](https://github.com/AndrewLawendy/use-singleton-state/assets/22712035/ae313a1c-6d94-4404-8d22-a33f431763e4)
 
 
-https://github.com/AndrewLawendy/use-singleton-state/assets/22712035/df95ccee-0a20-48d8-a4d5-bb5a3aff06bb
-
-This is the page structure that you can use to make a comparison with the React Dev Tool shown in the video.
+This is the page structure that you can use to make a comparison with the React Dev Tool shown in the GIF.
 
 ![structure](https://github.com/AndrewLawendy/use-singleton-state/assets/22712035/20f1a7c7-b4f2-4af6-9fc6-3b7d8803c3e6)
