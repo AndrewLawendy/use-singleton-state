@@ -4,7 +4,7 @@ import events from './utils/Events';
 
 const useSingletonState = <T>(
   key: string,
-  defaultValue: T
+  defaultValue?: T
 ): [T, Dispatch<SetStateAction<T>>] => {
   const eventName = `${key}-singleton-state`;
   const [value, setValue] = useState(defaultValue);
